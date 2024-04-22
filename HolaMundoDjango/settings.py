@@ -67,7 +67,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'HolaMundoDjango.wsgi.application'
+WSGI_APPLICATION = 'HolaMundoDjango.wsgi.app'
 
 
 # Database
